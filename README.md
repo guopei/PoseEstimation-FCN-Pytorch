@@ -14,4 +14,4 @@ or simply run `run.sh`. Uncomment visualize to watch the process of training.
 
 We get PCK@10%: 92.65% on CUB-200-2011 using this simple network architecture:
 
-[FCN](https://i.imgur.com/FmkDkfS.png)
+![FCN](https://i.imgur.com/FmkDkfS.png)
