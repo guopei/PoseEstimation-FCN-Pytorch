@@ -1,5 +1,5 @@
 
-## Pose estimation code for our WACV 2019 paper.
+## Pose Estimation Code Using Fully Convolutional Network.
 
 Source code for pose estimation part of our WACV 2019 paper "Aligned to the Object, not to the Image: A Unified Pose-aligned Representation for Fine-grained Recognition"
 
